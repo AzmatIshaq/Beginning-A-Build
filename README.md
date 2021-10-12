@@ -17,6 +17,7 @@ Has functional value.
 
 Invokes a sense of quality and elegance.  
 </br>
+</br>
 Dignified.
 
 Righteous.
