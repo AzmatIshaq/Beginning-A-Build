@@ -73,11 +73,11 @@ Fulfilling experiences.
 ## Part 3
 
 
-I want to apply design concepts and utilize any useful tool at my disposal. Currently, that means computers and materials such as fabrics, plastics, metal, wood. I would like to use more tools and materials as I progress in my competence as a builder. 
+I want to apply design concepts and utilize any useful tool at my disposal. Currently, that means using computers and materials such as fabrics, plastics, metal, wood. However, I would like to use more tools and materials as I progress in my competence as a builder. 
 
-Furthermore, in addition to the conceptual design, I want to be physically involved in building the projects.
+Therefore, in addition to the conceptual design, I want to be physically involved in building the projects.
 
-Currently, I work by creating software in text editors and illustrations in art programs. 
+Nevertheless, currently I work by creating software in text editors and illustrations in art programs. 
 
 When a project is complete, I may communicate the work in a class, on a forum, in an art gallery, in a business plan, to a friend, etc.
 
