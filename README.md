@@ -76,9 +76,9 @@ Fulfilling experiences.
 
 I also want to be physically involved in the building stage of conceptualized projects.
 
-I want to apply design concepts physically by utilizing any useful tool at my disposal. Currently, I work mainly by creating software in text editors and illustrating art in computer programs. However, I would like to use more physical tools and materials — fabrics, plastics, metal, wood, etc — while I progress in my competence as a builder. 
+I want to apply design concepts physically by utilizing any useful tool at my disposal. Currently, I work mainly by creating software in text editors and illustrating art in computer programs. However, I would like to use more physical tools and materials — fabrics, plastics, metal, wood... — while I progress in my competence as a builder. 
 
-When a project is complete, I may communicate the work in a class, on a website or forum, in an art gallery, in a business plan, to a friend...
+When a project is complete, I may communicate the work in a class, on a website or forum, in an art gallery, in a business plan, to a friend, etc.
 
 For collaboration visit https://github.com/AzmatIshaq/.
 
