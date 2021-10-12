@@ -36,7 +36,7 @@ Nature.
 
 ## Part 2
 
-I want to:
+**I want to:**
 
 Build computer interactive objects. 
 
@@ -44,7 +44,7 @@ Work in computer spaces, in writing places, and with the physical moving world.
 
 Be invovled in the Free Software culture and create Free Software.
 
-I am interested in: 
+**I am interested in:**
 
 Creating things that help people improve their health and well being.
 
