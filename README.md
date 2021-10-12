@@ -2,7 +2,7 @@ README
 
 ## Beginning A Build - by Azmat Ishaq - Tutorial BB with Allison Peacock
 
-I am a student at Concordia University. I am learning to build software, create computer interactive objects, and to design concepts that come to my mind.
+I am a student at Concordia University. I am learning to **build** software, **create** computer interactive objects, and to **design** concepts that come to my mind.
 
 
 ## Part 1 
