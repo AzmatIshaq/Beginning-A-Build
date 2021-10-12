@@ -1,5 +1,3 @@
-https://github.com/AzmatIshaq/Beginning-A-Build/blob/main/README.md
-
 README
 
 ## Beginning A Build - by Azmat Ishaq - Tutorial BB with Allison Peacock
