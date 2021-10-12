@@ -9,11 +9,11 @@ I am a student at Concordia University. I am learning to build software, compute
 
 Here are some keywords and sentences that help me frame my practice:
 
-**Useful**
+### Useful
 
 Has functional value.
 
-**Graceful**
+### Graceful
 
 Invokes a sense of quality and elegance.
 
@@ -44,7 +44,7 @@ Work in computer spaces, in writing places, and with the physical moving world.
 
 Be invovled in the Free Software culture and create Free Software.
 
-**I am interested in:**
+### I am interested in:
 
 Creating things that help people improve their health and well being.
 
