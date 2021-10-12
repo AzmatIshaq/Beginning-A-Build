@@ -11,11 +11,11 @@ Here are some keywords and sentences that help me frame my practice:
 
 ### Useful
 
-Has functional value.\
+Has functional value.  
 
 ### Graceful
 
-Invokes a sense of quality and elegance.\
+Invokes a sense of quality and elegance.  
 
 
 
