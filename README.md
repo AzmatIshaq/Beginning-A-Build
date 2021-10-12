@@ -43,7 +43,7 @@ Build computer interactive objects.
 
 Work in computer spaces, in writing places, and with the physical moving world.
 
-Be invovled in the Free Software culture and create Free Software.
+Participate in the Free Software culture and create Free Software.
 
 ### I am interested in:
 
@@ -72,14 +72,11 @@ Fulfilling experiences.
 
 ## Part 3
 
+I also want to be physically involved in the building stage of conceptualized projects.
 
-I want to apply design concepts and utilize any useful tool at my disposal. Currently, that means using computers and materials such as fabrics, plastics, metal, wood. However, I would like to use more tools and materials as I progress in my competence as a builder. 
+I want to apply design concepts physically by utilizing any useful tool at my disposal. Currently, I work mainly by creating software in text editors and illustrating art in computer programs. However, I would like to use more physical tools and materials such as — fabrics, plastics, metal, wood, etc — as I progress in my competence as a builder. 
 
-Therefore, in addition to the conceptual design, I want to be physically involved in building the projects.
-
-Nevertheless, currently I work by creating software in text editors and illustrations in art programs. 
-
-When a project is complete, I may communicate the work in a class, on a forum, in an art gallery, in a business plan, to a friend, etc.
+When a project is complete, I may communicate the work in a class, on a website or forum, in an art gallery, in a business plan, to a friend, etc.
 
 For collaboration visit https://github.com/AzmatIshaq/.
 
