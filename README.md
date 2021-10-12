@@ -9,11 +9,11 @@ I am a student at Concordia University. I am learning to build software, compute
 
 Here are some keywords and sentences that help me frame my practice:
 
-#Useful 
+######Useful 
 
 Has functional value.
 
-#Graceful
+######Graceful
 
 Invokes a sense of quality and elegance.
 
