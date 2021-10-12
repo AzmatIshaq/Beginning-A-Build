@@ -16,8 +16,8 @@ Has functional value.
 ### Graceful
 
 Invokes a sense of quality and elegance.  
-/
-/
+__
+__
 Dignified.
 
 Righteous.
