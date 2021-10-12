@@ -24,11 +24,13 @@ Dignified.
 
 Righteous.
 
+</br>
 
 Ethics.
 
 Timing.
 
+</br>
 
 Beauty.
 
