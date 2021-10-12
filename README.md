@@ -1,6 +1,6 @@
 README
 
-## Beginning A Build - by Azmat Ishaq - Tutorial BB with Allison
+## Beginning A Build - by Azmat Ishaq - Tutorial BB with Allison Peacock
 
 I am a student at Concordia University. I am learning to build software, computer interactive objects, and to design concepts that come to my mind.
 
