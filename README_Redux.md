@@ -1,6 +1,8 @@
 README
 
-## Let's Design Experience - by Azmat Ishaq - Tutorial BB with Allison Peacock
+### Azmat Ishaq - Tutorial BB with Allison Peacock
+
+## Let's Design Experienceby 
 
 I am a computer artist who enjoys **building** interactive programs and experiences. Ultimately, I **create** and **design** concepts that come to my mind. Recently I've been interested in designing experiences that leverage computers as a tool for educating people in ways that are engaging.
 
@@ -25,8 +27,6 @@ Some words that **guide my practice**:
 Dignified,    Ethics,    Nature
 
 Righteous,    Timing,    Beauty
-
-</br>
 
 ## Community
 
