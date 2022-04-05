@@ -4,7 +4,7 @@ README
 
 I am a computer artist who enjoys **building** interactive programs and experiences. Ultimately, I **create** and **design** concepts that come to my mind. Recently I've been interested in designing experiences that leverage computers as a tool for educating people in ways that are engaging.
 
-## 1 - Values 
+## Values 
 
 My practice is based on aspiring to a certain set of values. If my work can provide value to people then I think it is worth pursuing.
 
@@ -17,19 +17,18 @@ Has functional value.
 Has inspirational and aesthetic value 
 
 </br>
-</br>
 
-Some words that guide my practice:
-
-</br>
-
-Dignified    Ethics    Nature
-
-Righteous    Timing    Beauty
+Some words that **guide my practice**:
 
 </br>
 
-## 2 - Community
+Dignified,    Ethics,    Nature
+
+Righteous,    Timing,    Beauty
+
+</br>
+
+## Community
 
 Community can shake people out of individualized focus and shows us the value of shared experiences.
 
@@ -37,7 +36,7 @@ Community can shake people out of individualized focus and shows us the value of
 
 Community interaction is not just good for the mind but it can help artists develop personal and technical skills.
 
-## 3 - Goals
+## Goals
 
 I would like to engage with the Free Software culture and create Free Software.  
 
