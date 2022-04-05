@@ -38,7 +38,7 @@ Community interaction is not just good for the mind but it can help artists deve
 
 ## Goals
 
-I would like to engage with the Free Software culture and create Free Software.  
+I would like to engage with Free Software culture.  
 
 Hopefully there can be collaboration to create software which encourage people to experience long term well-being through movement. If technology can make people sedentary then perhaps it can make people functionally active as well.
 
