@@ -22,11 +22,11 @@ Has inspirational and aesthetic value
 
 Some words that **guide my practice**:
 
-</br>
-
 Dignified,    Ethics,    Nature
 
 Righteous,    Timing,    Beauty
+
+</br>
 
 ## Community
 
