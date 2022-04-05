@@ -40,7 +40,7 @@ Community interaction is not just good for the mind but it can help artists deve
 
 I would like to engage with Free Software culture.  
 
-Hopefully there can be collaboration to create software which encourage people to experience long term well-being through movement. If technology can make people sedentary then perhaps it can make people functionally active as well.
+Hopefully there can be collaboration to create software which encourages people to experience long term well-being through movement. If technology can make people sedentary then perhaps it can make people functionally active as well.
 
 This may involve creating works that involve movement from the artists as well. Instead of computer artists mainly working in front of screens, perhaps we can begin working with communities and materials. Let's make computer art a physical experience.
 
