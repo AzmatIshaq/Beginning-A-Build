@@ -2,7 +2,7 @@ README
 
 ### Azmat Ishaq - Tutorial BB with Allison Peacock
 
-## Let's Design Experienceby 
+## Let's Design Experience 
 
 I am a computer artist who enjoys **building** interactive programs and experiences. Ultimately, I **create** and **design** concepts that come to my mind. Recently I've been interested in designing experiences that leverage computers as a tool for educating people in ways that are engaging.
 
